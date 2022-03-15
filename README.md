@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vattsal Bhatt</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<p>An enthusiastic Full-stack web developer with hands-on experience in leading, developing & managing projects. Highly skilled decision-maker and problem solver with a specialization in Data Structure and algorithms. Looking forward to working as a developer and building interactive projects with a purpose-driven organization. </p>
+<p>An enthusiastic Full-stack web developer with hands-on
+experience in leading, developing & managing projects. Highly
+skilled decision-maker and problem solver with a specialization
+in Data Structure and algorithms. Looking forward to working as
+a developer and building interactive projects with a purposedriven organization. </p>
+
 <p align="left"> <a href="https://twitter.com/vattsalbhatt" target="blank"><img src="https://img.shields.io/twitter/follow/vattsalbhatt?logo=twitter&style=for-the-badge" alt="vattsalbhatt" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS**
@@ -13,7 +18,7 @@
 
 - 📫 How to reach me **vatsbhatt333@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vmrhP6FAVKg39m6865hCCTiQyflzXbBZ/view?usp=sharing](https://drive.google.com/file/d/1vmrhP6FAVKg39m6865hCCTiQyflzXbBZ/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PyGak2lBNL1Yt90_kggEqrgDXcFyrQIV/view?usp=sharing">Resume Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
