@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vattsal Bhatt</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<p>Hello, I am a Full-stack web development student from Masai School. With proficiency in the MERN stack, I aspire to solve problems by building user-centric products.
-
-As I belong to a photography family business background, the technology always had my attention and I was introduced to a computer very early on.
-
-I joined the family business after completing my graduation in B.Com. As I managed the business, I found some problems in the local photography community and businesses. So I founded my startups, PhotoGreen and Negast. They were tech products but didn't work. However, after many practical learnings, I realized that I enjoy building products.
-
-I started learning coding through YouTube and Udemy. But I knew I wanted to get in-depth knowledge and skills to fulfill my potential as a developer. I came across Masai School on social media and was intrigued by their program. 
-
-During my course, I have completed several projects (solo and group) such as Big Basket clone, Steve Madden clone, and so on. It gave me the opportunity to implement tech stacks like ExpressJS, AdvancedJS, MongoDB, Node.js, HTML, and others. The experience has made me more disciplined, focused, and a better team player.
-
-Now I look forward to learning about futuristic technologies and utilizing my skills to tackle major problems. I am immensely interested in Blockchain and Metaverse.
-
-Apart from this, I love to play sports, read books, listen to music and podcasts. </p>
+<p>An enthusiastic Full-stack web developer with hands-on experience in leading, developing & managing projects. Highly skilled decision-maker and problem solver with a specialization in Data Structure and algorithms. Looking forward to working as a developer and building interactive projects with a purpose-driven organization. </p>
 <p align="left"> <a href="https://twitter.com/vattsalbhatt" target="blank"><img src="https://img.shields.io/twitter/follow/vattsalbhatt?logo=twitter&style=for-the-badge" alt="vattsalbhatt" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS**
