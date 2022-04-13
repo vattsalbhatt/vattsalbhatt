@@ -8,8 +8,6 @@ a developer and building interactive projects with a purposedriven organization.
 
 <p align="left"> <a href="https://twitter.com/vattsalbhatt" target="blank"><img src="https://img.shields.io/twitter/follow/vattsalbhatt?logo=twitter&style=for-the-badge" alt="vattsalbhatt" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
-
 - 👯 I’m looking to collaborate on **Twitter Clone**
 
 - 👨‍💻 All of my projects are available at [vattsalbhatt.com](vattsalbhatt.com)
