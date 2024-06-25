@@ -14,7 +14,7 @@ a developer and building interactive projects with a purposedriven organization.
 
 - 📫 How to reach me **vatsbhatt333@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PyGak2lBNL1Yt90_kggEqrgDXcFyrQIV/view?usp=sharing">Resume Link</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1pVTbA_5aK0WNcOUaDE73GrLPXznlnrlY?usp=sharing">Resume Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
